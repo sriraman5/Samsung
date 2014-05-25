@@ -15,22 +15,18 @@ The names of the fields have only been modified slightly to permit reference bac
 more extensive documentation cited above.
 
 
-1  subject		- an integer between 1 and 30 corresponding to a particular participant
+1  subject        - an integer between 1 and 30 corresponding to a particular participant
+ 
+2  activity       - the activity that the subject was engaged in at the time of measurement
 
-2  activity		- the activity that the subject was engaged in at the time of measurement
+3  train          - a boolean showing a value of TRUE if the subject was part of the training group
 
-3  train		- a boolean showing a value of TRUE if the subject was part of the training group
-
-4  m.tBodyAcc-X		- various measurements taking values over [-1,1] indicating normalized movements
-
-5  m.tBodyAcc-Y		  across three dimensions
-
+4  m.tBodyAcc-X   - measurements taking values over [-1,1] indicating normalized movements across 3 dimensions
+5  m.tBodyAcc-Y
 6  m.tBodyAcc-Z
 
 7  m.tGravityAcc-X
-
 8  m.tGravityAcc-Y
-
 9  m.tGravityAcc-Z
 
 10 m.tBodyAccJerk-X
