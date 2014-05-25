@@ -22,12 +22,19 @@ more extensive documentation cited above.
 4  m.tBodyAcc-X		- various measurements taking values over [-1,1] indicating normalized movements
 5  m.tBodyAcc-Y		  across three dimensions
 6  m.tBodyAcc-Z
+
 7  m.tGravityAcc-X
+
 8  m.tGravityAcc-Y
+
 9  m.tGravityAcc-Z
+
 10 m.tBodyAccJerk-X
+
 11 m.tBodyAccJerk-Y
+
 12 m.tBodyAccJerk-Z
+
 13 m.tBodyGyro-X
 14 m.tBodyGyro-Y
 15 m.tBodyGyro-Z
