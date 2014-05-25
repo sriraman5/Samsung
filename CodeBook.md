@@ -5,6 +5,7 @@ The data for these fields comes from
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Fields prefixed with an m.  represent the average values of the means for each measurement
+
 Fields prefixed with an sd. represent the average values of the standard deviations
 
 Data from many different files was merged as averages into this single file. A new variable
