@@ -22,3 +22,5 @@ Standard deviations are in fields called sd.(measurement)
 2. Load the script
 3. It runs in about 5 seconds and then cleans up
 4. Exports a file called Samsung.txt and leaves a data.frame tidy.data containing unsummarized raw data by subject/activity
+
+5. additional comments in script
